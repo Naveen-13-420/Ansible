@@ -1,6 +1,6 @@
 # Introduction to Ansible
 
-## What is Ansible ?
+##    What is Ansible ?
 
 Ansible is an open source IT automation engine that automates 
 - provisioning 
